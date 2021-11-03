@@ -1,0 +1,10 @@
+.panel-about{
+    text-align: center;
+    margin: 2em;
+}
+
+.about-description{
+    font-size: 1.2em;
+    margin: 0.5em;
+    line-height: 2.5em;
+}

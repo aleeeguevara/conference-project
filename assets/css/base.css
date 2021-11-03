@@ -1,0 +1,53 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
+}
+.container{
+    width: 96%;
+    margin: 0 auto;
+    text-align: center;
+}
+.title{
+    font-size: 3em;  
+    font-family: 'Lobster', cursive;
+ }
+ .subtitle{
+     font-size: 2em;
+     margin: 0.5em;
+     font-family: 'Lobster', cursive;
+     color: rgb(255, 72, 0);
+ }
+.input{
+    width: 100%;
+    margin-bottom: 0.5em;
+    box-shadow: 0px 0px 9px 0px orangered;
+    border: none;
+    border-radius: 0.5em;
+    font-size: 1.1em;
+    padding: 0.2em;
+   
+}
+.input:focus-visible{
+    outline: none;
+}
+.label{
+    display: block;
+    text-align: start;
+    margin: 0.5em;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+.btn-apply{
+    padding: 0.7em;
+    margin: 1em;
+    width: 15%;
+    background-color: #e64b0ef1;
+    color: white;
+    border-radius: 0.3em;
+    border: none;
+    font-family: 'Lobster', cursive;
+    font-size: 1.2em;
+    box-shadow: 0px 0px 9px 0px black;
+
+}
+
